@@ -1,0 +1,23 @@
+[
+    {
+        "titulo": "Interstellar",
+        "anio": "2014",
+        "director": "Christopher Nolan"
+    },
+    {
+        "titulo": "Superman",
+        "anio": "1978",
+        "director": "Richard Donner"
+    },
+    {
+        "titulo": "Batman",
+        "anio": "1989",
+        "director": "Tim Burton"
+    },
+    {
+        "titulo": "Batman",
+        "anio": "1989",
+        "director": "Tim Burton",
+        "hora": "2025-07-16T23:17:35.970221"
+    }
+]
